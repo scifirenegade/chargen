@@ -1,2 +1,2 @@
-# chargen
-A character generator using Orteil's Randomgen
+# Character Generator (Ultimate edition)
+A character generator using Orteil's Randomgen.
